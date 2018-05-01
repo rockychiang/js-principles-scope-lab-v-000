@@ -1,2 +1,2 @@
-const customerName = 'bob';
+customerName = 'bob';
 
