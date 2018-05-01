@@ -1,3 +1,3 @@
 customerName = 'bob';
 
-function upperCase
+function upperCaseCustomer
